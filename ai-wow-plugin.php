@@ -19,7 +19,7 @@ function ai_wow_plugin_info_page() {
             <li>Generate key takeaways for your articles automatically.</li>
             <li>Configure your OpenAI API key for personalized AI services.</li>
         </ul>
-        <p>For more information and documentation, visit the <a href="http://yourwebsite.com/ai-wow-plugin">official plugin page</a>.</p>
+        <p>For more information and documentation, visit the <a href="https://aiprojectpad.com/ai-wow-plugin/">official plugin page</a>.</p>
     </div>
     <?php
 }
